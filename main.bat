@@ -19,7 +19,7 @@ echo. 	  ╚═══╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚
 
 echo.
 echo -------------------------------------------------------------------
-echo   Welcome to the YouTube Downloader! Powered by TurtleNopes
+echo   made by sythwii! DO not install videos and copyright.
 echo -------------------------------------------------------------------
 echo.
 
